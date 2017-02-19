@@ -1,0 +1,5 @@
+.qrsignore
+*sublime-*
+*.swp
+node_modules
+qiniu.json
